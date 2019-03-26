@@ -50,17 +50,7 @@
           </div>
         </div>
         </div>
-        <div class="slider__slide" data-slide="5">
-        <div class="slider__wrap">
-          <div class="slider__back"></div>
-        </div>
-        <div class="slider__inner">
-          <div class="slider__content">
-            <h1>Vùng đất <br> địa linh nhân kiệt</h1><a class="go-to-next" onclick="return nextSlide()">next</a>
-          </div>
-        </div>
-        </div>
-				<div class="slider__indicators"></div>
+		<div class="slider__indicators"></div>
     </div>
     
 </div>
