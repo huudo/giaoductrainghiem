@@ -1,0 +1,13 @@
+{
+	"home" : "Home",
+	"lang" : "Languague",
+	"login": "Login",
+	"register" : "Register",
+	"accomodations" : "Accomodations",
+	"tours" : "Tours",
+	"gallery" : "Gallery",
+	"news" : "News",
+	"events" : "Events",
+	"contacts" : "Contacts",
+	"booking" : "Booking"
+}
